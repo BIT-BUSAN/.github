@@ -1,1 +1,2 @@
-### SW AI 경진대회에 출전한 팀 BIT 입니다. 
+
+![image](https://github.com/BIT-BUSAN/.github/assets/128358820/37b132e5-5efc-460b-aca5-56638471240c)
